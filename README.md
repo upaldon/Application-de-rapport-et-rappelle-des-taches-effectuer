@@ -1,0 +1,2 @@
+# Application-de-rapport-et-rappelle-des-taches-effectuer
+Gestion des taches est une application développé avec python a l'aide tkinter pour l'interface et JSON pour stocker les données. L'application comporte une zone de saisi et une bouton d'ajout et une interface dans laquelle s'affiche les informations saisis par l'utilisateur avec la date et l'heure et aussi les croix pour supprimer une tache.
